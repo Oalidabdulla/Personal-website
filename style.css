@@ -1,0 +1,126 @@
+body {
+    margin: 0px;
+    font-family: 'Rajdhani',
+    sans-serif;
+    background-color: ;
+}
+section {
+    height: 500px;
+    padding-bottom: 50px;
+}
+#tomato {
+    color: tomato;
+}
+h1 {
+    font-size: 70px;
+    color: darkgray;
+}
+p {
+    font-size: 16px;
+    color: darkgray;
+    text-align: justify;
+}
+.link-button {
+    padding: 10px 20px;
+    color: white;
+    background-image: linear-gradient(180deg, grey, tomato);
+    text-decoration: none;
+    border-radius: 10px;
+    
+}
+.hlaf-width {
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+}
+.hlaf-width img {
+    width: 80%;
+}
+.part-three {
+    width: 18%;
+    margin-left: 10%;
+    padding-left: 1%;
+    float: left;
+    text-align: justify;
+    border-radius: 10px;
+    background-color: lightgray;
+    height: 350px;
+}
+.last-header {
+    color: tomato;
+}
+#project-header {
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 15px;
+}
+.part-three img {
+    width: 90%;
+    height: 200px;
+    padding-top: 10px; 
+}
+.working-area {
+    background-color: linen;
+    height: 500px;
+    padding-top: 50px;
+}
+.chat-area {
+     margin-left: 10%;
+     padding: 5%;
+     align-items: center;
+     margin-top: 10%;
+     background-image: url(img/Group_33094_1.png);
+     background-position: center;
+     background-size: cover;
+     border-radius: 20px;
+     width: 70%;
+     height: 20%;       
+}
+.inquiry-area-one {
+        padding-left: 20px;
+        display: inline-block;
+        text-align: center;
+    
+}
+.inquiry-area-two {
+    padding-left: 400px;
+    display: inline-block;
+    text-align: center;
+
+}
+.inquiry-header {
+    color: white;
+    margin-top: 0px;
+}
+.link-button-three {
+    padding: 20px 25px;
+    color: white;
+    background-image: linear-gradient(180deg, grey, tomato);
+    text-decoration: none;
+    border-radius: 10px;
+}
+.font-size {
+    font-size: 25px;
+}
+.fotter-header {
+    text-align: center; 
+    padding-top: 80px;
+    
+}
+.fotter-one {
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+.fotter-two {
+    font-size:30px
+}
+.fotter-img {
+    text-align: center;
+    padding-top: 10px;
+}
+.fotter-img img {
+    width: 40px;
+    padding-left: 15px;
+    padding-bottom: 80px;
+}
